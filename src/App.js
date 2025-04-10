@@ -1,4 +1,6 @@
 
+// Filename - App.js
+
 import { Suspense, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 
@@ -50,7 +52,7 @@ function App() {
 
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/react" element={<Home />} />
           <Route path="/about" element={<About />} />
         </Routes>
       </Router>
