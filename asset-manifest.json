@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react/static/css/main.7449066f.css",
-    "main.js": "/react/static/js/main.7145270c.js",
+    "main.js": "/react/static/js/main.9524ddc8.js",
     "static/js/787.5f979cc4.chunk.js": "/react/static/js/787.5f979cc4.chunk.js",
     "static/media/fon2.jpg": "/react/static/media/fon2.57c582b845272bc401e9.jpg",
     "static/media/fon_main.jpg": "/react/static/media/fon_main.8db9295aa1a47e54501d.jpg",
@@ -18,11 +18,11 @@
     "static/media/“.svg": "/react/static/media/“.0fb83375f4d15f32d31e.svg",
     "static/media/getFetch.cjs": "/react/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.7449066f.css.map": "/react/static/css/main.7449066f.css.map",
-    "main.7145270c.js.map": "/react/static/js/main.7145270c.js.map",
+    "main.9524ddc8.js.map": "/react/static/js/main.9524ddc8.js.map",
     "787.5f979cc4.chunk.js.map": "/react/static/js/787.5f979cc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7449066f.css",
-    "static/js/main.7145270c.js"
+    "static/js/main.9524ddc8.js"
   ]
 }
