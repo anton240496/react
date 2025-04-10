@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.570cc8a6.css",
+    "main.js": "/react/static/js/main.27724a25.js",
+    "static/js/787.5f979cc4.chunk.js": "/react/static/js/787.5f979cc4.chunk.js",
+    "static/media/fon2.jpg": "/react/static/media/fon2.57c582b845272bc401e9.jpg",
+    "static/media/fon_main.jpg": "/react/static/media/fon_main.8db9295aa1a47e54501d.jpg",
+    "static/media/foto.jpg": "/react/static/media/foto.c2a1198107a0fab2b1eb.jpg",
+    "static/media/cart.jpg": "/react/static/media/cart.4e1ae3d9dae47c72a2db.jpg",
+    "static/media/EuropaNuovaBold.ttf": "/react/static/media/EuropaNuovaBold.1e25b51e062d35eae9f5.ttf",
+    "static/media/Poppins-Regular.ttf": "/react/static/media/Poppins-Regular.9171031e050ecf676c11.ttf",
+    "static/media/Europa_Regular.ttf": "/react/static/media/Europa_Regular.6f7af97cfd0baa472939.ttf",
+    "static/media/slick.svg": "/react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react/index.html",
+    "static/media/“.svg": "/react/static/media/“.0fb83375f4d15f32d31e.svg",
+    "static/media/getFetch.cjs": "/react/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.570cc8a6.css.map": "/react/static/css/main.570cc8a6.css.map",
+    "main.27724a25.js.map": "/react/static/js/main.27724a25.js.map",
+    "787.5f979cc4.chunk.js.map": "/react/static/js/787.5f979cc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570cc8a6.css",
+    "static/js/main.27724a25.js"
+  ]
+}
