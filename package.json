@@ -2,7 +2,7 @@
   "name": "lokalise-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anton240496.github.io/react_trav",
+  "homepage": "https://anton240496.github.io/react",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.3",
     "@testing-library/jest-dom": "^5.16.5",
@@ -33,7 +33,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "tailwindcss build -i src/main.css -o public/style.css",
+    "build": "react-scripts build tailwindcss build -i src/main.css -o public/style.css",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "extract-translations": "i18next -c i18n-parser.config.js --fail-on-warnings"
@@ -63,6 +63,6 @@
     "gh-pages": "^6.3.0",
     "i18next-parser": "^7.7.0",
     "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.17"
+    "postcss-cli": "^11.0.1"
   }
 }
